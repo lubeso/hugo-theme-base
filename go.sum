@@ -18,3 +18,5 @@ github.com/lubeso/hugo-theme-tailwindcss v0.1.5 h1:aQDTg99vr6EsWyVobMyqhZqBfzdIJ
 github.com/lubeso/hugo-theme-tailwindcss v0.1.5/go.mod h1:aLcP5S4ytDZXGfeGIcm01oWtuMWCU0iQjqL0GR+G+uE=
 github.com/lubeso/hugo-theme-tailwindcss v0.1.6 h1:uSQmrreoSQtgoZQAbexYhp788dkvpJAAw9VcfTqlW9o=
 github.com/lubeso/hugo-theme-tailwindcss v0.1.6/go.mod h1:aLcP5S4ytDZXGfeGIcm01oWtuMWCU0iQjqL0GR+G+uE=
+github.com/lubeso/hugo-theme-tailwindcss v0.2.0 h1:yx/eRNWhuDTijj/ctVLYrd5dZ9uywzw6vrnuz+r69jU=
+github.com/lubeso/hugo-theme-tailwindcss v0.2.0/go.mod h1:aLcP5S4ytDZXGfeGIcm01oWtuMWCU0iQjqL0GR+G+uE=
