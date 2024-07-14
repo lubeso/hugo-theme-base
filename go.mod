@@ -4,5 +4,5 @@ go 1.21.6
 
 require (
 	github.com/lubeso/hugo-theme-opengraph v0.1.3 // indirect
-	github.com/lubeso/hugo-theme-tailwindcss v0.1.4 // indirect
+	github.com/lubeso/hugo-theme-tailwindcss v0.1.5 // indirect
 )
