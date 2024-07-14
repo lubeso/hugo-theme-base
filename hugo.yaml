@@ -4,5 +4,6 @@ module:
     min: "v0.116.0"
 
   imports:
-    - path: github.com/lubeso/hugo-theme-tailwindcss
     - path: github.com/lubeso/hugo-theme-opengraph
+    - path: github.com/lubeso/hugo-theme-tailwindcss
+    - path: github.com/lubeso/hugo-theme-typescript
