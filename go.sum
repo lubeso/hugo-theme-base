@@ -2,5 +2,7 @@ github.com/lubeso/hugo-theme-opengraph v0.1.4 h1:sOfyow6KIkABL9z4H10PvirvGgtlgOa
 github.com/lubeso/hugo-theme-opengraph v0.1.4/go.mod h1:PtiN5rrGpc73E/mVY2u/INMaX7bKq9FSMAEcv7+KA88=
 github.com/lubeso/hugo-theme-tailwindcss v0.2.1 h1:GyZxX/7GgS0nUkOrMCmeK3ko/5/pN70plsZczPkPCRM=
 github.com/lubeso/hugo-theme-tailwindcss v0.2.1/go.mod h1:aLcP5S4ytDZXGfeGIcm01oWtuMWCU0iQjqL0GR+G+uE=
+github.com/lubeso/hugo-theme-tailwindcss v0.2.2 h1:c3lZVnfxpWNl1CD77df+LcF+0yQdDMLHI+niuBiH43Q=
+github.com/lubeso/hugo-theme-tailwindcss v0.2.2/go.mod h1:aLcP5S4ytDZXGfeGIcm01oWtuMWCU0iQjqL0GR+G+uE=
 github.com/lubeso/hugo-theme-typescript v0.1.0 h1:2gb86Kc6rwYm7R9f2SG2JvCumZYzpCUQ7CzLlLLaYls=
 github.com/lubeso/hugo-theme-typescript v0.1.0/go.mod h1:csGZeBLK+ILsYvoSeOzgeBfyRxQHQxafRoSZlUA9z90=
